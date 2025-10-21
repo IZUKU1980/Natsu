@@ -1,7 +1,7 @@
 {
   "name": "NATSU-MD",
   "description": "NATSU BOT développer comme du n'importe quoi 🎯",
-  "logo": "https://files.catbox.moe/pnzrc4.png",
+  "logo": "https://files.catbox.moe/sigghy.jpg",
   "keywords": ["NATSU-MD"],
   "success_url": "/",
 
@@ -17,7 +17,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ＳＨＡＤＯＷ ＣＯＤＥ  ＢＹ  NATSU"
+      "value": "ＣＯＤＥ  ＢＹ  NATSU"
     }, 
       
     "PREFIX": {
@@ -116,7 +116,7 @@
     "ALIVE_IMG": {
       "description": "put here the bot Menu url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/tmreeo.jpg" 
+      "value": "https://files.catbox.moe/sigghy.jpg" 
       },
 
     "DELETE_LINK": {
